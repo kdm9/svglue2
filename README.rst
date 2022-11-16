@@ -1,6 +1,9 @@
-# svglue 2
+svglue 2
+========
 
 A fantastic utility to glue image/text into SVG templates, orgininally by [@mbr](https://github.com/mbr/svglue). Upstream seems unmaintained, so I am uploading it to PyPI via this repo.
+
+The original readme follows
 
 
 svglue
